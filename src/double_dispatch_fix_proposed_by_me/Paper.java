@@ -1,4 +1,4 @@
-package double_dispatch_fixed;
+package double_dispatch_fix_proposed_by_me;
 
 public class Paper implements GameObject
 {

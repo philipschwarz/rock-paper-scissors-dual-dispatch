@@ -1,4 +1,4 @@
-package double_dispatch_fixed;
+package double_dispatch_fix_proposed_in_errata;
 
 import org.junit.Test;
 
