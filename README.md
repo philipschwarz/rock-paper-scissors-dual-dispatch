@@ -15,4 +15,4 @@ I fixed the double dipatch version by changing the second dispatch method from '
 
 I then found there is an errata for the book http://www.wirfs-brock.com/PDFs/Book%20Corrections.pdf, 
 which acknowledges the error and proposes as a solution that x.beats(y) calls !y.beatsX(), but 
-that in turnrequires that x.beatsX() be true, which is not right.
+that in turn requires that x.beatsX() be true, which is not right.
